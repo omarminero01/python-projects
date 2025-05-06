@@ -1,4 +1,4 @@
-"""ejercicio
+"""ejercicio #1
 En una empresa donde los vendedores 
 reciben el 13% de comision
 el jefe quiere un programa que les ayude a calcular la comision
