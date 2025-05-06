@@ -1,11 +1,11 @@
-"""ejercicio #1
+"""ejercicio #1  
 En una empresa donde los vendedores 
 reciben el 13% de comision
 el jefe quiere un programa que les ayude a calcular la comision
 creando un programa que les pregunte su nombre y cuanto han vendido""" 
 
 
-"""Paso 1
+"""Paso 1  solo notas 
 
 primero necesitamos saber  el nombre y la cantidad de ventas
 almacenamos el nombre en una variable y las ventas en una segunda variable
