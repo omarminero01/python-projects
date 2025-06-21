@@ -11,7 +11,7 @@ def devolver_distintos(a, b, c):
         return lista[1]
 
 
-
+print
 '''Crea una función lamada devolver_distintos() que reciba 3
  integers como parámetros. 
 Si la suma de los 3 numeros es mayor a 15, va a devolver el
