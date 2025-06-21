@@ -58,9 +58,9 @@ NOTA: recordar que se utilizo la formula de arriba f para poder expresar en una 
 
 #Lineas y codigos ya generados en pytho:
 
-nombre = input("Por favor ingresa tu nombre : ")
-venta = input("Ingresa la cantidad vendida en este mes : ")
-venta = int (venta)
-comision = venta *13 /100
-comision = round(comision)
-print(f"Hola {nombre}, tus comisiones de este mes son de ${comision}")
+#nombre = input("Por favor ingresa tu nombre : ")
+#venta = input("Ingresa la cantidad vendida en este mes : ")
+#venta = int (venta)
+#comision = venta *13 /100
+#comision = round(comision)
+#print(f"Hola {nombre}, tus comisiones de este mes son de ${comision}")
